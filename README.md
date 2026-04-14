@@ -1,10 +1,8 @@
 ### Hi there 👋
-I'm a freelance digital marketing specialist
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DDCCF&background=FF52BC00&width=610&lines=i'm+a+freelance+digital+marketing+speciailist" alt="Typing SVG" /></a>
 
 ### 📊 Metrics
 ![GitHub Streak](https://streak-stats.demolab.com/?user=reiwakayama&theme=icegray&card_height=170&card_width=495&border=e4e2e2)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reiwakayama&layout=compact&theme=graywhite&card_width=495)
 
 ### 📝 Technical Blog Posts
 + [Forecasting Time Series Data with Facebook Prophet](https://www.datachai.com/post/forecasting-time-series-data-with-facebook-prophet)
